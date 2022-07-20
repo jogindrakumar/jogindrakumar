@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*v8Z6faF7ij8iSwunSMcTZA.gif)]
 <h1 align="center">Hi 👋, I'm jogindra kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="jkcoding" width="400" align="right">
