@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jogindrakumar&label=Profile%20views&color=0e75b6&style=flat" alt="jogindrakumar" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **Multiple Project**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 💬 Ask me about **html,css,bootstrap,sass,javascript,php,laravel,**
 
