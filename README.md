@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm jogindra kumar</h1>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=header" />
+<h1 align="center" style="font-family:sans-serif;">Hi 👋, I'm jogindra kumar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="jkcoding" width="400" align="right">
 
@@ -28,4 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jogindrakumar&" alt="jogindrakumar" /></p>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
+
 
