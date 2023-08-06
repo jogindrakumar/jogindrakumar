@@ -26,7 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jogindrakumar&show_icons=true&locale=en" alt="jogindrakumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jogindrakumar&" alt="jogindrakumar" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:dfc2fb,100:aeadfd&height=120&section=footer" />
 
