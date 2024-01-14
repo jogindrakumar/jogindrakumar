@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multiple Project**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **html,css,bootstrap,sass,javascript,php,laravel,**
 
