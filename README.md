@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html,css,bootstrap,sass,javascript,php,laravel,**
 
-- 📫 How to reach me **info@jogindrakumar.com**
+- 📫 How to reach me **joginder9868@outlook.com**
 
 - ⚡ Fun fact **i learn i forget then start learn again**
 
